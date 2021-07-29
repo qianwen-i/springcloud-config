@@ -1,2 +1,0 @@
-# springcloud-config
-SSSSSSSSSSSSSSSSSSS
